@@ -1,2 +1,0 @@
-# Internship Code Samples
- 

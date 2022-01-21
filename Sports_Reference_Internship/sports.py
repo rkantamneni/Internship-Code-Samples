@@ -1,6 +1,6 @@
 import json
 
-data = open('/Users/revantkantamneni/Downloads/team.json')
+data = open('/Users/revantkantamneni/Documents/GitHub/Internship-Code-Samples/Sports_Reference_Internship/team.json')
 teamData = json.load(data) #Load json data into dictionary
 
 #Printing First Line of Team Names
